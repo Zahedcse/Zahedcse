@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I recently completed an internship at a1qa softwar
 
 ### :computer: Tech Stack
 
-- Languages: Python, C, Java
+- Languages: Python, C, Javascript
 - Test Automation: Selenium (Python), Pytest
+- API Testing, API Automation
 - Performance Testing: Jmeter
 - Tools: JIRA, Git,
 - Databases: MySQL, Firebase
