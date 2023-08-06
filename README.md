@@ -11,8 +11,9 @@ Welcome to my GitHub profile! I recently completed an internship at a1qa softwar
 
 - Languages: Python, C, Javascript
 - Test Automation: Selenium (Python), Pytest
-- API Testing, API Automation
+- API Testing, API Automation, POSTMAN
 - Performance Testing: Jmeter
+- Vulnerability Testing: Charles and Fiddler
 - Tools: JIRA, Git,
 - Databases: MySQL, Firebase
 
