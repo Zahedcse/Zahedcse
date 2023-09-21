@@ -1,4 +1,4 @@
-# :wave: Hello, I'm Md Zahed Alam, a Junior Software Quality Assurance Engineer!
+# :wave: Hello, I'm Md Zahed Alam, Full Stack Software Quality Assurance Engineer!
 
 Welcome to my GitHub profile! I recently completed an internship at a1qa software testing company, where I gained valuable experience in software testing and quality assurance. Now, I'm eager to apply my skills and knowledge in a professional setting. Here's a glimpse of what I bring to the table:
 
